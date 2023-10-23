@@ -1,18 +1,18 @@
-# Web Development Project 6 - *Name of App Here*
+# Web Development Project 6 - Brews4All2
 
-Submitted by: **Your Name Here**
+Submitted by: Shrinav Loka
 
-This web app: **insert description**
+This web app: The Brewery Web App is a web application that provides valuable information about breweries across the United States. Users can explore a comprehensive list of breweries, filter them by type, state, and name, and access detailed information about each brewery.
 
-Time spent: **X** hours spent in total
+Time spent: 10 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **The app includes at least one unique chart developed using the fetched data that tell an interesting story**
-- [ ] **Clicking on an item in the list view displays more details about it**
-- [ ] **Clicking on an item has a direct, unique link to that item's detail view page**
+- [x] **The app includes at least one unique chart developed using the fetched data that tell an interesting story**
+- [x] **Clicking on an item in the list view displays more details about it**
+- [x] **Clicking on an item has a direct, unique link to that item's detail view page**
 
 
 The following **optional** features are implemented:
@@ -39,11 +39,11 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app: None
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 Shrinav Loka
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
